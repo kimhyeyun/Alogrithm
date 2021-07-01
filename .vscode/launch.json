@@ -1,0 +1,245 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch 시저암호",
+            "request": "launch",
+            "mainClass": "시저암호",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch k번째수",
+            "request": "launch",
+            "mainClass": "k번째수",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch year2016",
+            "request": "launch",
+            "mainClass": "year2016",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 가운데글자가져오기",
+            "request": "launch",
+            "mainClass": "가운데글자가져오기",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 같은숫자는싫어",
+            "request": "launch",
+            "mainClass": "같은숫자는싫어",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 나누어떨어지는숫자배열",
+            "request": "launch",
+            "mainClass": "나누어떨어지는숫자배열",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 내적",
+            "request": "launch",
+            "mainClass": "내적",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 다트게임",
+            "request": "launch",
+            "mainClass": "다트게임",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 두개뽑아서더하기",
+            "request": "launch",
+            "mainClass": "두개뽑아서더하기",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 두정수사이의합",
+            "request": "launch",
+            "mainClass": "두정수사이의합",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 로또의최고순위와최저순위",
+            "request": "launch",
+            "mainClass": "로또의최고순위와최저순위",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 모의고사",
+            "request": "launch",
+            "mainClass": "모의고사",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 문자열내p와y의개수",
+            "request": "launch",
+            "mainClass": "문자열내p와y의개수",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 문자열내림차순으로배치하기",
+            "request": "launch",
+            "mainClass": "문자열내림차순으로배치하기",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 문자열내마음대로정렬",
+            "request": "launch",
+            "mainClass": "문자열내마음대로정렬",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 문자열다루기기본",
+            "request": "launch",
+            "mainClass": "문자열다루기기본",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 문자열을정수로바꾸기",
+            "request": "launch",
+            "mainClass": "문자열을정수로바꾸기",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 비밀지도",
+            "request": "launch",
+            "mainClass": "비밀지도",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 삼진법뒤집기",
+            "request": "launch",
+            "mainClass": "삼진법뒤집기",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 서울에서김서방찾기",
+            "request": "launch",
+            "mainClass": "서울에서김서방찾기",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 소수만들기",
+            "request": "launch",
+            "mainClass": "소수만들기",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 소수찾기",
+            "request": "launch",
+            "mainClass": "소수찾기",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 수박수박수박수박수",
+            "request": "launch",
+            "mainClass": "수박수박수박수박수",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 신규아이디추천",
+            "request": "launch",
+            "mainClass": "신규아이디추천",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 실패율",
+            "request": "launch",
+            "mainClass": "실패율",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 약수의개수와덧셈",
+            "request": "launch",
+            "mainClass": "약수의개수와덧셈",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 예산",
+            "request": "launch",
+            "mainClass": "예산",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 완주하지못한선수",
+            "request": "launch",
+            "mainClass": "완주하지못한선수",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 음양더하기",
+            "request": "launch",
+            "mainClass": "음양더하기",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 체육복",
+            "request": "launch",
+            "mainClass": "체육복",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 크레인인형뽑기",
+            "request": "launch",
+            "mainClass": "크레인인형뽑기",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 키패드누르기",
+            "request": "launch",
+            "mainClass": "키패드누르기",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 폰켓몬",
+            "request": "launch",
+            "mainClass": "폰켓몬",
+            "projectName": "Algorithm_bb8d156c"
+        }
+    ]
+}
