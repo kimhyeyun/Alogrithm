@@ -6,6 +6,83 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch 평균구하기",
+            "request": "launch",
+            "mainClass": "평균구하기",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 콜라츠추측",
+            "request": "launch",
+            "mainClass": "콜라츠추측",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 최대공약수와최소공배수",
+            "request": "launch",
+            "mainClass": "최대공약수와최소공배수",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 짝수와홀수",
+            "request": "launch",
+            "mainClass": "짝수와홀수",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 제일작은수제거하기",
+            "request": "launch",
+            "mainClass": "제일작은수제거하기",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 정수제곱근판별",
+            "request": "launch",
+            "mainClass": "정수제곱근판별",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 정수내림차순으로배치하기",
+            "request": "launch",
+            "mainClass": "정수내림차순으로배치하기",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 자연수뒤집어배열로만들기",
+            "request": "launch",
+            "mainClass": "자연수뒤집어배열로만들기",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 자릿수더하기",
+            "request": "launch",
+            "mainClass": "자릿수더하기",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 이상한문자만들기",
+            "request": "launch",
+            "mainClass": "이상한문자만들기",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 약수의합",
+            "request": "launch",
+            "mainClass": "약수의합",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
             "name": "Launch 시저암호",
             "request": "launch",
             "mainClass": "시저암호",
