@@ -6,6 +6,76 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch 단체사진찍기",
+            "request": "launch",
+            "mainClass": "단체사진찍기",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 스코빌지수",
+            "request": "launch",
+            "mainClass": "스코빌지수",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 기능개발",
+            "request": "launch",
+            "mainClass": "기능개발",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 멀쩡한사각형",
+            "request": "launch",
+            "mainClass": "멀쩡한사각형",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 짝지어제거하기",
+            "request": "launch",
+            "mainClass": "짝지어제거하기",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 숫자문자열과영단어",
+            "request": "launch",
+            "mainClass": "숫자문자열과영단어",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 직사각형별찍기",
+            "request": "launch",
+            "mainClass": "직사각형별찍기",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch x만큼간격이있는n개의숫자",
+            "request": "launch",
+            "mainClass": "x만큼간격이있는n개의숫자",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 핸드폰번호가리기",
+            "request": "launch",
+            "mainClass": "핸드폰번호가리기",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 하샤드수",
+            "request": "launch",
+            "mainClass": "하샤드수",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
             "name": "Launch 평균구하기",
             "request": "launch",
             "mainClass": "평균구하기",
