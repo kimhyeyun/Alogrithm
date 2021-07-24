@@ -2,5 +2,11 @@
     "java.project.sourcePaths": [
         "LEVEL1",
         "LEVEL2"
-    ]
+    ],
+    "files.associations": {
+        "*.html": "html",
+        "string": "cpp",
+        "string_view": "cpp",
+        "vector": "cpp"
+    }
 }

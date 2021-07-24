@@ -18,7 +18,6 @@ public class 단체사진찍기{
         visited = new boolean[8];
         cnt = 0;
         kakao = new HashMap<>();
-        ok = true;
         
         // Position의 index 번호로 매핑
         kakao.put('A', 0);

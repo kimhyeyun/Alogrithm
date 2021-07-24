@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch 괄호변환",
+            "request": "launch",
+            "mainClass": "괄호변환",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 거리두기확인하기",
+            "request": "launch",
+            "mainClass": "거리두기확인하기",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 일이사나라의숫자",
+            "request": "launch",
+            "mainClass": "일이사나라의숫자",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 타켓넘버",
+            "request": "launch",
+            "mainClass": "타켓넘버",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 오픈채팅방",
+            "request": "launch",
+            "mainClass": "오픈채팅방",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 문자열압축",
+            "request": "launch",
+            "mainClass": "문자열압축",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 카카오프렌즈컬러링북",
+            "request": "launch",
+            "mainClass": "카카오프렌즈컬러링북",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
             "name": "Launch 단체사진찍기",
             "request": "launch",
             "mainClass": "단체사진찍기",
