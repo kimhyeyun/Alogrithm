@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch 뉴스클러스터링",
+            "request": "launch",
+            "mainClass": "뉴스클러스터링",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 행렬테두리회전하기",
+            "request": "launch",
+            "mainClass": "행렬테두리회전하기",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 가장큰수",
+            "request": "launch",
+            "mainClass": "가장큰수",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 전화번호목록",
+            "request": "launch",
+            "mainClass": "전화번호목록",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 프린터",
+            "request": "launch",
+            "mainClass": "프린터",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
             "name": "Launch 괄호변환",
             "request": "launch",
             "mainClass": "괄호변환",
