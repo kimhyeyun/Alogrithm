@@ -1,7 +1,8 @@
 {
     "java.project.sourcePaths": [
+        "LEVEL2",
         "LEVEL1",
-        "LEVEL2"
+        "PROGRAMMERS/LEVEL2"
     ],
     "files.associations": {
         "*.html": "html",
