@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch 괄호",
+            "request": "launch",
+            "mainClass": "괄호",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 스택",
+            "request": "launch",
+            "mainClass": "스택",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 요세푸스문제",
+            "request": "launch",
+            "mainClass": "요세푸스문제",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
             "name": "Launch HIndex",
             "request": "launch",
             "mainClass": "HIndex",

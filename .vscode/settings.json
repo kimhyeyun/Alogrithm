@@ -1,8 +1,7 @@
 {
     "java.project.sourcePaths": [
-        "LEVEL2",
-        "LEVEL1",
-        "PROGRAMMERS/LEVEL2"
+        "PROGRAMMERS/LEVEL2",
+        "BAEKJOON/DataStructure"
     ],
     "files.associations": {
         "*.html": "html",
