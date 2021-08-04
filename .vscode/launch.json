@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch 프린터뷰",
+            "request": "launch",
+            "mainClass": "프린터뷰",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 쇠막대기",
+            "request": "launch",
+            "mainClass": "쇠막대기",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 후위표기식2",
+            "request": "launch",
+            "mainClass": "후위표기식2",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 스택수열",
+            "request": "launch",
+            "mainClass": "스택수열",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 덱",
+            "request": "launch",
+            "mainClass": "덱",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 카드2",
+            "request": "launch",
+            "mainClass": "카드2",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 큐2",
+            "request": "launch",
+            "mainClass": "큐2",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
             "name": "Launch 괄호",
             "request": "launch",
             "mainClass": "괄호",
