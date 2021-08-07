@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch 영어끝말잇기",
+            "request": "launch",
+            "mainClass": "영어끝말잇기",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 구명보트",
+            "request": "launch",
+            "mainClass": "구명보트",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
             "name": "Launch 주식가격",
             "request": "launch",
             "mainClass": "주식가격",
