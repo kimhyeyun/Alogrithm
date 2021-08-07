@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch 주식가격",
+            "request": "launch",
+            "mainClass": "주식가격",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 두개이하로다른비트",
+            "request": "launch",
+            "mainClass": "두개이하로다른비트",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 프렌즈4블록",
+            "request": "launch",
+            "mainClass": "프렌즈4블록",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 괄호의값",
+            "request": "launch",
+            "mainClass": "괄호의값",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 풍선터트리기",
+            "request": "launch",
+            "mainClass": "풍선터트리기",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 큰수만들기",
+            "request": "launch",
+            "mainClass": "큰수만들기",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 배달",
+            "request": "launch",
+            "mainClass": "배달",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 순위검색",
+            "request": "launch",
+            "mainClass": "순위검색",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
             "name": "Launch 프린터뷰",
             "request": "launch",
             "mainClass": "프린터뷰",
