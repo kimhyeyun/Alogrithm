@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch 캐시",
+            "request": "launch",
+            "mainClass": "캐시",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 점프와순간이동",
+            "request": "launch",
+            "mainClass": "점프와순간이동",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 이진변환반복하기",
+            "request": "launch",
+            "mainClass": "이진변환반복하기",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 후위표기식",
+            "request": "launch",
+            "mainClass": "후위표기식",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 탑",
+            "request": "launch",
+            "mainClass": "탑",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 괄호제거",
+            "request": "launch",
+            "mainClass": "괄호제거",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
             "name": "Launch 영어끝말잇기",
             "request": "launch",
             "mainClass": "영어끝말잇기",
