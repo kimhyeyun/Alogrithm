@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch 카드놓기",
+            "request": "launch",
+            "mainClass": "카드놓기",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 키로거",
+            "request": "launch",
+            "mainClass": "키로거",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 회전하는큐",
+            "request": "launch",
+            "mainClass": "회전하는큐",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 좋은단어",
+            "request": "launch",
+            "mainClass": "좋은단어",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 균형잡힌세상",
+            "request": "launch",
+            "mainClass": "균형잡힌세상",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 큐",
+            "request": "launch",
+            "mainClass": "큐",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
             "name": "Launch 캐시",
             "request": "launch",
             "mainClass": "캐시",
