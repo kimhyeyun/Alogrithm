@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch 탑보기",
+            "request": "launch",
+            "mainClass": "탑보기",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch AC",
+            "request": "launch",
+            "mainClass": "AC",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 스카이라인쉬운거",
+            "request": "launch",
+            "mainClass": "스카이라인쉬운거",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
             "name": "Launch 스킬트리",
             "request": "launch",
             "mainClass": "스킬트리",
