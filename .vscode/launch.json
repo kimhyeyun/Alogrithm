@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch 스킬트리",
+            "request": "launch",
+            "mainClass": "스킬트리",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 쿼드압축후개수세기",
+            "request": "launch",
+            "mainClass": "쿼드압축후개수세기",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
             "name": "Launch 카드놓기",
             "request": "launch",
             "mainClass": "카드놓기",
