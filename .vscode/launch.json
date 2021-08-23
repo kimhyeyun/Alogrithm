@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch 압축",
+            "request": "launch",
+            "mainClass": "압축",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 가장큰정사각형찾기",
+            "request": "launch",
+            "mainClass": "가장큰정사각형찾기",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 방금그곡",
+            "request": "launch",
+            "mainClass": "방금그곡",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 방문길이",
+            "request": "launch",
+            "mainClass": "방문길이",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 절대값힙",
+            "request": "launch",
+            "mainClass": "DataStructure2.절대값힙",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 최대힙",
+            "request": "launch",
+            "mainClass": "DataStructure2.최대힙",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 문자열집합",
+            "request": "launch",
+            "mainClass": "DataStructure2.문자열집합",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 나는야포켓몬마스터이다솜",
+            "request": "launch",
+            "mainClass": "DataStructure2.나는야포켓몬마스터이다솜",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
             "name": "Launch 탑보기",
             "request": "launch",
             "mainClass": "탑보기",
