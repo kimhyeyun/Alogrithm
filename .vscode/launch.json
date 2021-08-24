@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch 문제추천시스템v1",
+            "request": "launch",
+            "mainClass": "DataStructure2.문제추천시스템v1",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 생태학",
+            "request": "launch",
+            "mainClass": "DataStructure2.생태학",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch N번째큰수",
+            "request": "launch",
+            "mainClass": "DataStructure2.N번째큰수",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 이중우선순위큐",
+            "request": "launch",
+            "mainClass": "DataStructure2.이중우선순위큐",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
             "name": "Launch 압축",
             "request": "launch",
             "mainClass": "압축",
