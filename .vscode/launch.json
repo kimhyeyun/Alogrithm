@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch 암기왕",
+            "request": "launch",
+            "mainClass": "DataStructure2.암기왕",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 암기왕",
+            "request": "launch",
+            "mainClass": "암기왕",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 부품대여장",
+            "request": "launch",
+            "mainClass": "DataStructure2.부품대여장",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 중앙값구하기",
+            "request": "launch",
+            "mainClass": "DataStructure2.중앙값구하기",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 문제추천시스템v2",
+            "request": "launch",
+            "mainClass": "DataStructure2.문제추천시스템v2",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
             "name": "Launch 문제추천시스템v1",
             "request": "launch",
             "mainClass": "DataStructure2.문제추천시스템v1",
