@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch 패션왕신혜빈",
+            "request": "launch",
+            "mainClass": "DataStructure2.패션왕신혜빈",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 베스트셀러",
+            "request": "launch",
+            "mainClass": "DataStructure2.베스트셀러",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 배부른마라토너",
+            "request": "launch",
+            "mainClass": "DataStructure2.배부른마라토너",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 땅따먹기",
+            "request": "launch",
+            "mainClass": "땅따먹기",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 다음큰숫자",
+            "request": "launch",
+            "mainClass": "다음큰숫자",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch n진수게임",
+            "request": "launch",
+            "mainClass": "n진수게임",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 올바른괄호",
+            "request": "launch",
+            "mainClass": "올바른괄호",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 파일명정렬",
+            "request": "launch",
+            "mainClass": "파일명정렬",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
             "name": "Launch 암기왕",
             "request": "launch",
             "mainClass": "DataStructure2.암기왕",
