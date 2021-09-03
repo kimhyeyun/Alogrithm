@@ -1,8 +1,10 @@
 {
     "java.project.sourcePaths": [
         "PROGRAMMERS/LEVEL2",
+        "PICKED/8.31",
         "BAEKJOON/DataStructure",
-        "BAEKJOON"
+        "BAEKJOON",
+        "PICKED/9.2"
     ],
     "files.associations": {
         "*.html": "html",

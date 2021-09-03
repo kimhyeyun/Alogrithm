@@ -6,6 +6,83 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch 숫자의표현",
+            "request": "launch",
+            "mainClass": "숫자의표현",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 괄호회전하기",
+            "request": "launch",
+            "mainClass": "괄호회전하기",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 모음사전",
+            "request": "launch",
+            "mainClass": "모음사전",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 나눌수있는부분수열",
+            "request": "launch",
+            "mainClass": "나눌수있는부분수열",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 소수와팰린드롬",
+            "request": "launch",
+            "mainClass": "소수와팰린드롬",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 일이삼더하기4",
+            "request": "launch",
+            "mainClass": "일이삼더하기4",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch JavavsC",
+            "request": "launch",
+            "mainClass": "JavavsC",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 구슬탈출",
+            "request": "launch",
+            "mainClass": "구슬탈출",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 당근훔쳐먹기",
+            "request": "launch",
+            "mainClass": "당근훔쳐먹기",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 특정거리의도시찾기",
+            "request": "launch",
+            "mainClass": "특정거리의도시찾기",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 수이어가기",
+            "request": "launch",
+            "mainClass": "수이어가기",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
             "name": "Launch 패션왕신혜빈",
             "request": "launch",
             "mainClass": "DataStructure2.패션왕신혜빈",
