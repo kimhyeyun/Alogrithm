@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch N개의최소공배수",
+            "request": "launch",
+            "mainClass": "N개의최소공배수",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch JadenCase문자열만들기",
+            "request": "launch",
+            "mainClass": "JadenCase문자열만들기",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 행렬의곱셈",
+            "request": "launch",
+            "mainClass": "행렬의곱셈",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 피보나치수",
+            "request": "launch",
+            "mainClass": "피보나치수",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 최솟값만들기",
+            "request": "launch",
+            "mainClass": "최솟값만들기",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 최댓값과최솟값",
+            "request": "launch",
+            "mainClass": "최댓값과최솟값",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
             "name": "Launch 싸이버개강총회",
             "request": "launch",
             "mainClass": "DataStructure2.싸이버개강총회",

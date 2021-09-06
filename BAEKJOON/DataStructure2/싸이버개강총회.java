@@ -39,6 +39,7 @@ public class 싸이버개강총회 {
                 }
             }
         }
+        
         System.out.println(answer);
     }
 
