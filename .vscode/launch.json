@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch 싸이버개강총회",
+            "request": "launch",
+            "mainClass": "DataStructure2.싸이버개강총회",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 대칭차잡합",
+            "request": "launch",
+            "mainClass": "DataStructure2.대칭차잡합",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
             "name": "Launch 숫자의표현",
             "request": "launch",
             "mainClass": "숫자의표현",
