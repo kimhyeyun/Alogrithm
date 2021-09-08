@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.Stack;
 
-public class 소수와팰린드롬 {
+public class Main_BOJ_1747_소수와팰린드롬 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

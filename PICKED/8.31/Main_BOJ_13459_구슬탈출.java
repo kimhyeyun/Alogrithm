@@ -3,7 +3,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class 구슬탈출 {
+public class Main_BOJ_13459_구슬탈출 {
     public static class marble{
         int x;
         int y;

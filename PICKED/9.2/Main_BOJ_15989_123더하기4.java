@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class 일이삼더하기4 {
+public class Main_BOJ_15989_123더하기4 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

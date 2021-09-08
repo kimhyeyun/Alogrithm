@@ -8,7 +8,7 @@ import java.util.PriorityQueue;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public class 특정거리의도시찾기 {
+public class Main_BOJ_18352_특정거리의도시찾기 {
 
     static ArrayList<Integer>[] adj;
     static int[] dist;

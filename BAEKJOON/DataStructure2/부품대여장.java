@@ -71,7 +71,7 @@ public class 부품대여장 {
             if(map.containsKey(id)){
                 TreeSet<timebyPart> tmp = map.get(id);
 
-                if(tmp.){
+                if(){
                     int dif = totalTime - tmp.time;
 
                     if(dif > rentTime){

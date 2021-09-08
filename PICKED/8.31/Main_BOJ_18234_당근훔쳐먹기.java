@@ -6,7 +6,7 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.StringTokenizer;
 
-public class 당근훔쳐먹기{
+public class Main_BOJ_18234_당근훔쳐먹기{
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer stringTokenizer = new StringTokenizer(br.readLine());
