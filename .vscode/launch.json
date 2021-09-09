@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Main_P_2주차_상호평가",
+            "request": "launch",
+            "mainClass": "Main_P_2주차_상호평가",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
             "name": "Launch Main_P_1주차_부족한금액계산하기",
             "request": "launch",
             "mainClass": "Main_P_1주차_부족한금액계산하기",
