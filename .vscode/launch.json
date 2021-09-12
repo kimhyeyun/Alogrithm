@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Main_P_6주차_복사정렬하기",
+            "request": "launch",
+            "mainClass": "Main_P_6주차_복사정렬하기",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main_P_5주차_직업군추천하기",
+            "request": "launch",
+            "mainClass": "Main_P_5주차_직업군추천하기",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main_Kakao_6",
+            "request": "launch",
+            "mainClass": "Main_Kakao_6",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main_Kakao_3",
+            "request": "launch",
+            "mainClass": "Main_Kakao_3",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main_Kakao_2",
+            "request": "launch",
+            "mainClass": "Main_Kakao_2",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main_Kakao_1",
+            "request": "launch",
+            "mainClass": "Main_Kakao_1",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main_1",
+            "request": "launch",
+            "mainClass": "Main_1",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main_2",
+            "request": "launch",
+            "mainClass": "Main_2",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main_프로그래밍_1",
+            "request": "launch",
+            "mainClass": "Main_프로그래밍_1",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
             "name": "Launch Main_P_2주차_상호평가",
             "request": "launch",
             "mainClass": "Main_P_2주차_상호평가",
