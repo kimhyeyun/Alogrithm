@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch 가장먼노드",
+            "request": "launch",
+            "mainClass": "가장먼노드",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
             "name": "Launch Main_P_6주차_복사정렬하기",
             "request": "launch",
             "mainClass": "Main_P_6주차_복사정렬하기",
