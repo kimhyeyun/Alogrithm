@@ -7,11 +7,11 @@ import java.util.StringTokenizer;
 
 public class Main_BOJ_20056_마법사상어와파이어볼 {
     static class fireBall{
-        int r;
-        int c;
-        int m;
-        int s;
-        int d;
+        int r;  // row
+        int c;  // col
+        int m;  // mass
+        int s;  // speed
+        int d;  // direction
 
         fireBall(int r, int c, int m, int s, int d){
             this.r = r;
@@ -22,9 +22,9 @@ public class Main_BOJ_20056_마법사상어와파이어볼 {
         }
     }
     static List<fireBall>[][] map;
-    static List<fireBall> list = new ArrayList<>();
-    static int dx[] = {-1,-1,0,1,1,1,0,-1};
-    static int dy[] = {0,1,1,1,0,-1,-1,-1};
+    static List<fireBall> fireBallList = new ArrayList<>();
+    static int dr[] = {-1,-1,0,1,1,1,0,-1};
+    static int dc[] = {0,1,1,1,0,-1,-1,-1};
     
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));  
@@ -48,62 +48,86 @@ public class Main_BOJ_20056_마법사상어와파이어볼 {
             int m = Integer.parseInt(stringTokenizer.nextToken());
             int s = Integer.parseInt(stringTokenizer.nextToken());
             int d = Integer.parseInt(stringTokenizer.nextToken());
-            list.add(new fireBall(r-1, c-1, m, s, d));
+
+            fireBallList.add(new fireBall(r-1, c-1, m, s, d));
         }
 
         while(K-- > 0){
             // 이동
-            for(fireBall fBall : list){
-                fBall.r = (fBall.r + (fBall.s % N) * dx[fBall.d] + N) % N;
-                fBall.c = (fBall.c + (fBall.s % N) * dy[fBall.d] + N) % N;
+            for(fireBall fBall : fireBallList){
+                // s 가 최대 1,000으로 N을 초과할 수 있기 때문에 % N
+                int nr = fBall.r + dr[fBall.d] *(fBall.s % N);
+                int nc = fBall.c + dc[fBall.d] *(fBall.s % N);
+
+                if(nr >= N)
+                    nr -= N;
+                else if(nr < 0)
+                    nr += N;
+                if(nc >= N)
+                    nc -= N;
+                else if(nc < 0)
+                    nc += N;
+
+                fBall.r = nr;
+                fBall.c = nc;
 
                 map[fBall.r][fBall.c].add(fBall);
 
             }
 
-            // 파이어볼이 두개 이상
+            // 파이어볼이 두개 이상인곳 확인
             for(int i = 0 ; i < N; i++){
                 for(int j = 0 ; j < N; j++){
-                    if(map[i][j].size() == 1)
+                    // 2개 미만이면 지우고 continue;
+                    if(map[i][j].size() < 2){
                         map[i][j].clear();
-                    if(map[i][j].size() == 0)
                         continue;
+                    }
                     
+                    // 2개 이상이면
+                    // 1. 방향이 모두 짝수(홀수)인지 아닌지 확인
                     boolean even = map[i][j].get(0).d % 2 == 0 ? true : false;
                     boolean odd = map[i][j].get(0).d % 2 == 1 ? true : false;
 
-                    int mSum = 0;
-                    int sSum = 0;
+                    int mSum = 0;   // 질량 합 
+                    int sSum = 0;   // 속도 합
 
                     for(fireBall f : map[i][j]){
                         mSum += f.m;
                         sSum += f.s;
+                        // 방향이 짝수인지
                         even = even && f.d % 2 == 0 ? true : false;
+                        // 방향이 홀수인지
                         odd = odd && f.d % 2 == 1 ? true : false;
-                        list.remove(f);
+
+                        fireBallList.remove(f);
                     }
 
-                    int nm = Math.floorDiv(mSum, 5);
-                    int ns = Math.floorDiv(sSum, map[i][j].size());
+                    int nMass = Math.floorDiv(mSum, 5);
+                    int nSpeed = Math.floorDiv(sSum, map[i][j].size());
                     map[i][j].clear();
 
-                    if(nm == 0)
+                    if(nMass == 0)
                         continue;
 
+                    // 방향이 모두 홀수(짝수) 이면
                     if(even || odd){
+                        // 방향이 0, 2, 4, 6
                         for(int k = 0 ; k < 7 ; k += 2)
-                            list.add(new fireBall(i,j,nm, ns, k));
+                            fireBallList.add(new fireBall(i,j,nMass, nSpeed, k));
                     }
+                    // 아니면
                     else{
+                        // 방향이 1, 3, 5, 7
                         for(int k = 1; k < 8 ; k+=2)
-                            list.add(new fireBall(i, j, nm, ns, k));
+                            fireBallList.add(new fireBall(i, j, nMass, nSpeed, k));
                     }
                 }
             }
         }
 
         int ans = 0;
-        for(fireBall f : list)
+        for(fireBall f : fireBallList)
             ans += f.m;
 
         System.out.println(ans);

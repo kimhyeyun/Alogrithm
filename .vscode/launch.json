@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Main_BOJ_2026_소풍",
+            "request": "launch",
+            "mainClass": "Main_BOJ_2026_소풍",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
             "name": "Launch Main_BOJ_20056_마법사상어와파이어볼",
             "request": "launch",
             "mainClass": "Main_BOJ_20056_마법사상어와파이어볼",
