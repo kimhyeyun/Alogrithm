@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Main_BOJ_12782_비트우정지수",
+            "request": "launch",
+            "mainClass": "Main_BOJ_12782_비트우정지수",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
             "name": "Launch 가장먼노드",
             "request": "launch",
             "mainClass": "가장먼노드",
