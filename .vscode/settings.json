@@ -1,18 +1,16 @@
 {
     "java.project.sourcePaths": [
-        "월간코드챌린지시즌3/9월",
-        "line",
-        "kakao",
         "PROGRAMMERS/WeeklyChallenge",
         "PROGRAMMERS/LEVEL3",
         "PROGRAMMERS/LEVEL2",
         "PICKED/9.8",
         "PICKED/9.6",
         "PICKED/9.2",
+        "PICKED/9.13",
         "PICKED/8.31",
         "BAEKJOON/DataStructure",
         "BAEKJOON",
-        "PICKED/9.13"
+        "PICKED/9.14"
     ],
     "files.associations": {
         "*.html": "html",
