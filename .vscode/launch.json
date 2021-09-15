@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch 디스크컨트롤러",
+            "request": "launch",
+            "mainClass": "디스크컨트롤러",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
             "name": "Launch 리틀프렌즈사천성",
             "request": "launch",
             "mainClass": "리틀프렌즈사천성",
