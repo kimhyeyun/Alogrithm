@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Main_BOJ_17070_파이프옮기기1",
+            "request": "launch",
+            "mainClass": "Main_BOJ_17070_파이프옮기기1",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
             "name": "Launch Main_BOJ_17209_카우버거알바생",
             "request": "launch",
             "mainClass": "Main_BOJ_17209_카우버거알바생",
