@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Main_BOJ_17209_카우버거알바생",
+            "request": "launch",
+            "mainClass": "Main_BOJ_17209_카우버거알바생",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
             "name": "Launch Main_BOJ_1958_LCS3",
             "request": "launch",
             "mainClass": "Main_BOJ_1958_LCS3",
