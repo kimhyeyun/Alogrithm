@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch 리틀프렌즈사천성",
+            "request": "launch",
+            "mainClass": "리틀프렌즈사천성",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main_BOJ_12871_무한문자열",
+            "request": "launch",
+            "mainClass": "Main_BOJ_12871_무한문자열",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main_BOJ_17406_배열돌리기4",
+            "request": "launch",
+            "mainClass": "Main_BOJ_17406_배열돌리기4",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
             "name": "Launch Main_BOJ_18427_함께블록쌓기",
             "request": "launch",
             "mainClass": "Main_BOJ_18427_함께블록쌓기",
