@@ -6,11 +6,12 @@
         "PICKED/9.8",
         "PICKED/9.6",
         "PICKED/9.2",
+        "PICKED/9.14",
         "PICKED/9.13",
         "PICKED/8.31",
         "BAEKJOON/DataStructure",
         "BAEKJOON",
-        "PICKED/9.14"
+        "PICKED/9.15"
     ],
     "files.associations": {
         "*.html": "html",

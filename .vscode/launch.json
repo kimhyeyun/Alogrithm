@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Main_BOJ_1958_LCS3",
+            "request": "launch",
+            "mainClass": "Main_BOJ_1958_LCS3",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
             "name": "Launch 디스크컨트롤러",
             "request": "launch",
             "mainClass": "디스크컨트롤러",
