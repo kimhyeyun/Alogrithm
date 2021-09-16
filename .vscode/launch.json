@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch 순위",
+            "request": "launch",
+            "mainClass": "순위",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
             "name": "Launch 네트워크",
             "request": "launch",
             "mainClass": "네트워크",
