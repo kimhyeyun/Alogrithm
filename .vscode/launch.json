@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch 셔틀규칙",
+            "request": "launch",
+            "mainClass": "셔틀규칙",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
             "name": "Launch 다단계칫솔판매",
             "request": "launch",
             "mainClass": "다단계칫솔판매",
