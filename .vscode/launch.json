@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch 보석쇼핑",
+            "request": "launch",
+            "mainClass": "보석쇼핑",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
             "name": "Launch 표편집",
             "request": "launch",
             "mainClass": "표편집",
