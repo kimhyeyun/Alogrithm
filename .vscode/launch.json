@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch 표편집",
+            "request": "launch",
+            "mainClass": "표편집",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
             "name": "Launch 셔틀규칙",
             "request": "launch",
             "mainClass": "셔틀규칙",
