@@ -1,5 +1,3 @@
-import Main_BOJ_20056_마법사상어와파이어볼.fireBall;
-
 public class 금과은운반하기 {
     public static long solution(int a, int b, int[] g, int[] s, int[] w, int[] t) {
         long answer = Long.MAX_VALUE;
