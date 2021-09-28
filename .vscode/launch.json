@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch pg_2xn타일링",
+            "request": "launch",
+            "mainClass": "pg_2xn타일링",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch GPS",
+            "request": "launch",
+            "mainClass": "GPS",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 불량사용자",
+            "request": "launch",
+            "mainClass": "불량사용자",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
             "name": "Launch 보석쇼핑",
             "request": "launch",
             "mainClass": "보석쇼핑",
