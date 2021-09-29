@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Main_BOJ_20055_컨베이어벨트위의로봇",
+            "request": "launch",
+            "mainClass": "Main_BOJ_20055_컨베이어벨트위의로봇",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
             "name": "Launch Main_BOJ_1120_문자열",
             "request": "launch",
             "mainClass": "Main_BOJ_1120_문자열",
