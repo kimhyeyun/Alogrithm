@@ -1,5 +1,4 @@
-import java.util.LinkedList;
-import java.util.List;
+
 import java.util.TreeMap;
 
 public class 이중우선순위큐 {
