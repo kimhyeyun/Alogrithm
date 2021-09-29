@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch 단어변환",
+            "request": "launch",
+            "mainClass": "단어변환",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
             "name": "Launch 등굣길",
             "request": "launch",
             "mainClass": "등굣길",
