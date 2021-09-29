@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch 등굣길",
+            "request": "launch",
+            "mainClass": "등굣길",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch 이중우선순위큐",
+            "request": "launch",
+            "mainClass": "이중우선순위큐",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
             "name": "Launch pg_2xn타일링",
             "request": "launch",
             "mainClass": "pg_2xn타일링",
