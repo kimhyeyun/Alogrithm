@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch 합승택시요금",
+            "request": "launch",
+            "mainClass": "합승택시요금",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
             "name": "Launch Main_BOJ_20055_컨베이어벨트위의로봇",
             "request": "launch",
             "mainClass": "Main_BOJ_20055_컨베이어벨트위의로봇",
