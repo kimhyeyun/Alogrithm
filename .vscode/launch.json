@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch 보행자천국",
+            "request": "launch",
+            "mainClass": "보행자천국",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
             "name": "Launch 경주로건설",
             "request": "launch",
             "mainClass": "경주로건설",
