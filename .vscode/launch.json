@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch 경주로건설",
+            "request": "launch",
+            "mainClass": "경주로건설",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
             "name": "Launch 합승택시요금",
             "request": "launch",
             "mainClass": "합승택시요금",
