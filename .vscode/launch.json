@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Main_BOJ_1713_후보추천하기",
+            "request": "launch",
+            "mainClass": "Main_BOJ_1713_후보추천하기",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
             "name": "Launch Main_BOJ_5766_할아버지는유명해",
             "request": "launch",
             "mainClass": "Main_BOJ_5766_할아버지는유명해",
