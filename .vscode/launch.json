@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch 광고삽입",
+            "request": "launch",
+            "mainClass": "광고삽입",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
             "name": "Launch 여행경로",
             "request": "launch",
             "mainClass": "여행경로",
