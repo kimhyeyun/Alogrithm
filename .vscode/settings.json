@@ -5,6 +5,7 @@
         "PROGRAMMERS/LEVEL2",
         "PICKED/9.8",
         "PICKED/9.6",
+        "PICKED/9.30",
         "PICKED/9.29",
         "PICKED/9.2",
         "PICKED/9.15",
@@ -13,7 +14,7 @@
         "PICKED/8.31",
         "BAEKJOON/DataStructure",
         "BAEKJOON",
-        "PICKED/9.30"
+        "PICKED/10.2"
     ],
     "files.associations": {
         "*.html": "html",
