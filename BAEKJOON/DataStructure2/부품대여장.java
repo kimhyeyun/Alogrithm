@@ -43,7 +43,7 @@ public class 부품대여장 {
         StringBuilder sb = new StringBuilder();
         StringTokenizer stringTokenizer = new StringTokenizer(br.readLine(), " /:");
 
-        Map<String, Map<timebyPart>> map = new HashMap<>();
+        // Map<String, Map<timebyPart>> map = new HashMap<>();
         List<finebyId> fees = new LinkedList<>();
 
         int N = Integer.parseInt(stringTokenizer.nextToken());
@@ -68,7 +68,7 @@ public class 부품대여장 {
 
             int totalTime = minute + hour*60 + (day + month[m])*1440;
 
-            if(map.containsKey(id)){
+/*             if(map.containsKey(id)){
                 TreeSet<timebyPart> tmp = map.get(id);
 
                 if(){
@@ -81,7 +81,7 @@ public class 부품대여장 {
 
                     map.remove(id);
                 }
-            }
+            } */
         }
 
 

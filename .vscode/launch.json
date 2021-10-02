@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Main_BOJ_1541_잃어버린괄호",
+            "request": "launch",
+            "mainClass": "Main_BOJ_1541_잃어버린괄호",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
             "name": "Launch Main_BOJ_1244_스위치켜고끄기",
             "request": "launch",
             "mainClass": "Main_BOJ_1244_스위치켜고끄기",
