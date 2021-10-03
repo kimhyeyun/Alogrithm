@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Main_BOJ_1302_베스트셀러",
+            "request": "launch",
+            "mainClass": "Main_BOJ_1302_베스트셀러",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
             "name": "Launch Main_BOJ_1541_잃어버린괄호",
             "request": "launch",
             "mainClass": "Main_BOJ_1541_잃어버린괄호",
