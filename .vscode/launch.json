@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch 징검다리건너기",
+            "request": "launch",
+            "mainClass": "징검다리건너기",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
             "name": "Launch 길찾기게임",
             "request": "launch",
             "mainClass": "길찾기게임",
