@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Main_BOJ_2812_크게만들기",
+            "request": "launch",
+            "mainClass": "Main_BOJ_2812_크게만들기",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
             "name": "Launch Main_BOJ_1817_짐챙기는숌",
             "request": "launch",
             "mainClass": "Main_BOJ_1817_짐챙기는숌",
