@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Main_BOJ_1080_행렬",
+            "request": "launch",
+            "mainClass": "Main_BOJ_1080_행렬",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
             "name": "Launch Main_BOJ_20551_Sort마스터배지훈의후계자",
             "request": "launch",
             "mainClass": "Main_BOJ_20551_Sort마스터배지훈의후계자",
