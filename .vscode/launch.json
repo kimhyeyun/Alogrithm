@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Main_BOJ_2374_같은수로만들기",
+            "request": "launch",
+            "mainClass": "Main_BOJ_2374_같은수로만들기",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
             "name": "Launch Main_BOJ_1080_행렬",
             "request": "launch",
             "mainClass": "Main_BOJ_1080_행렬",
