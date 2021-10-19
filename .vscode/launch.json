@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Main_BOJ_2469_사다리타기",
+            "request": "launch",
+            "mainClass": "Main_BOJ_2469_사다리타기",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
             "name": "Launch Main_BOJ_1987_알파벳",
             "request": "launch",
             "mainClass": "Main_BOJ_1987_알파벳",
