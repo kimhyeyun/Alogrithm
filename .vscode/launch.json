@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Main_BOJ_2776_암기왕",
+            "request": "launch",
+            "mainClass": "Main_BOJ_2776_암기왕",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
             "name": "Launch Main_BOJ_17451_평행우주",
             "request": "launch",
             "mainClass": "Main_BOJ_17451_평행우주",
