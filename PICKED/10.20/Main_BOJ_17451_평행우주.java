@@ -16,11 +16,14 @@ public class Main_BOJ_17451_평행우주 {
             planet[i] = Long.parseLong(stringTokenizer.nextToken());
         }
 
-        long maxVelocity = planet[n-1];
-        for(int i = n-2; i >= 0 ; i--){
-            maxVelocity = ((long)(Math.ceil((double) maxVelocity/planet[i])) * planet[i]);
+        long velocity = planet[n-1];
+        for(int i = n-2; i >= 0; i--){
+            if(velocity < planet[i])
+                velocity = planet[i];
+            else if(planet[i] < velocity && velocity%planet[i] != 0)
+                velocity = ((velocity / planet[i]) + 1) * planet[i];
         }
         
-        System.out.println(maxVelocity);
+        System.out.println(velocity);
     }
 }
