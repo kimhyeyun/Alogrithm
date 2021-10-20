@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Main_BOJ_1967_트리의지름",
+            "request": "launch",
+            "mainClass": "Main_BOJ_1967_트리의지름",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
             "name": "Launch Main_BOJ_2729_이진수덧셈",
             "request": "launch",
             "mainClass": "Main_BOJ_2729_이진수덧셈",
