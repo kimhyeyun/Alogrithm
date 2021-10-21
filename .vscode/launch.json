@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Main_P_8주차_최소직사각형",
+            "request": "launch",
+            "mainClass": "Main_P_8주차_최소직사각형",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
             "name": "Launch 브라이언의고민",
             "request": "launch",
             "mainClass": "브라이언의고민",
