@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch 브라이언의고민",
+            "request": "launch",
+            "mainClass": "브라이언의고민",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
             "name": "Launch Main_BOJ_2776_암기왕",
             "request": "launch",
             "mainClass": "Main_BOJ_2776_암기왕",
