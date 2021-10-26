@@ -62,8 +62,6 @@ public class Main_P_10주차_교점에별만들기 {
             board.add(sb.toString());
         }
 
-        int yLen = board.size() / 2;
-        int xLen = board.get(0).length() / 2;
         for(coordinate c : cList){
             int x = Math.abs(c.x - startX);
             int y = Math.abs(c.y - startY);
@@ -88,8 +86,8 @@ public class Main_P_10주차_교점에별만들기 {
     }
 
     public static void main(String[] args) {
-        // int[][] line = {{2, -1, 4}, {-2, -1, 4}, {0,-1,1}, {5,-8,-12},{5,8,12}};
-        int[][] line = {{0,1,-1}, {1,0,-1}, {1,0,1}};
+        int[][] line = {{2, -1, 4}, {-2, -1, 4}, {0,-1,1}, {5,-8,-12},{5,8,12}};
+        // int[][] line = {{0,1,-1}, {1,0,-1}, {1,0,1}};
         String[] answer = solution(line);
         
         for(String a : answer)
