@@ -51,7 +51,7 @@ public class Main_P_10주차_교점에별만들기 {
             }
         }
 
-        System.out.println(startX + " " + startY + " " + endX + " " + endY);
+        // System.out.println(startX + " " + startY + " " + endX + " " + endY);
 
         ArrayList<String> board = new ArrayList<>();
         for(int i = startY; i <= endY; i++){
@@ -62,25 +62,20 @@ public class Main_P_10주차_교점에별만들기 {
             board.add(sb.toString());
         }
 
-        for(String b : board)
-            System.out.println(b);
-
         int yLen = board.size() / 2;
         int xLen = board.get(0).length() / 2;
         for(coordinate c : cList){
-            int x = c.x + xLen;
-            int y = c.y + yLen;
+            int x = Math.abs(c.x - startX);
+            int y = Math.abs(c.y - startY);
 
-            System.out.println(c.x + " " + c.y);
-            System.out.println(x + " " + y);
+            // System.out.println(x + " " + y);
+
             StringBuilder sb = new StringBuilder(board.get(y));
             board.remove(y);
             sb.setCharAt(x, '*');
 
             board.add(y, sb.toString());
 
-            System.out.println(x + " " +y);
-            System.out.println(sb.toString());
         }
        
         answer = new String[board.size()];
