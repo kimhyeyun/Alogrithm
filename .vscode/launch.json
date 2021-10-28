@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Main_BOJ_18405_경쟁적전염",
+            "request": "launch",
+            "mainClass": "Main_BOJ_18405_경쟁적전염",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
             "name": "Launch Main_BOJ_1715_카드정렬하기",
             "request": "launch",
             "mainClass": "Main_BOJ_1715_카드정렬하기",
