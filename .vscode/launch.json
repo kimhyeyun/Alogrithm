@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Main_BOJ_1717_집합의표현",
+            "request": "launch",
+            "mainClass": "Main_BOJ_1717_집합의표현",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
             "name": "Launch Main_BOJ_20665_독서실거리두기",
             "request": "launch",
             "mainClass": "Main_BOJ_20665_독서실거리두기",
