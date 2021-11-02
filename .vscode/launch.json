@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Main_BOJ_10828_스택",
+            "request": "launch",
+            "mainClass": "Main_BOJ_10828_스택",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
             "name": "Launch Main_BOJ_16953_AtoB",
             "request": "launch",
             "mainClass": "Main_BOJ_16953_AtoB",
