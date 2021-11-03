@@ -12,6 +12,7 @@
         "PICKED/9.14",
         "PICKED/9.13",
         "PICKED/8.31",
+        "PICKED/11.2",
         "PICKED/10.7",
         "PICKED/10.3",
         "PICKED/10.28",
@@ -22,7 +23,7 @@
         "PICKED/10.11",
         "BAEKJOON/DataStructure",
         "BAEKJOON",
-        "PICKED/11.2"
+        "우아한테크코스준비"
     ],
     "files.associations": {
         "*.html": "html",

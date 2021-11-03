@@ -6,6 +6,90 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Main_BOJ_7568_덩치",
+            "request": "launch",
+            "mainClass": "Main_BOJ_7568_덩치",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main_BOJ_1748_수이어쓰기1",
+            "request": "launch",
+            "mainClass": "Main_BOJ_1748_수이어쓰기1",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main_BOJ_16236_아기상어",
+            "request": "launch",
+            "mainClass": "Main_BOJ_16236_아기상어",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main_BOJ_2563_색종이",
+            "request": "launch",
+            "mainClass": "Main_BOJ_2563_색종이",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main_BOJ_14499_주사위굴리기",
+            "request": "launch",
+            "mainClass": "Main_BOJ_14499_주사위굴리기",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main_BOJ_10773_제로",
+            "request": "launch",
+            "mainClass": "Main_BOJ_10773_제로",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main_BOJ_14503_로봇청소기",
+            "request": "launch",
+            "mainClass": "Main_BOJ_14503_로봇청소기",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main_BOJ_2960_에라토스테네스의체",
+            "request": "launch",
+            "mainClass": "Main_BOJ_2960_에라토스테네스의체",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main_BOJ_14891_톱니바퀴",
+            "request": "launch",
+            "mainClass": "Main_BOJ_14891_톱니바퀴",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main_BOJ_1966_프린터큐",
+            "request": "launch",
+            "mainClass": "Main_BOJ_1966_프린터큐",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main_BOJ_1316_그룹단어체커",
+            "request": "launch",
+            "mainClass": "Main_BOJ_1316_그룹단어체커",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main_BOJ_2875_대회or인턴",
+            "request": "launch",
+            "mainClass": "Main_BOJ_2875_대회or인턴",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
             "name": "Launch Main_BOJ_10828_스택",
             "request": "launch",
             "mainClass": "Main_BOJ_10828_스택",
