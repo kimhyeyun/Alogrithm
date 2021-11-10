@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Main_BOJ_17276_배열돌리기",
+            "request": "launch",
+            "mainClass": "Main_BOJ_17276_배열돌리기",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main_BOJ_2671_잠수함식별",
+            "request": "launch",
+            "mainClass": "Main_BOJ_2671_잠수함식별",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
             "name": "Launch Main_Test_7",
             "request": "launch",
             "mainClass": "Main_Test_7",

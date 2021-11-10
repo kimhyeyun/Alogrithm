@@ -1,5 +1,6 @@
 {
     "java.project.sourcePaths": [
+        "우아한테크코스준비",
         "PROGRAMMERS/WeeklyChallenge",
         "PROGRAMMERS/LEVEL3",
         "PROGRAMMERS/LEVEL2",
@@ -23,7 +24,7 @@
         "PICKED/10.11",
         "BAEKJOON/DataStructure",
         "BAEKJOON",
-        "우아한테크코스준비"
+        "PICKED/11.10"
     ],
     "files.associations": {
         "*.html": "html",
