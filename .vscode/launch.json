@@ -6,6 +6,76 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Main_Test_7",
+            "request": "launch",
+            "mainClass": "Main_Test_7",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main_Test_6",
+            "request": "launch",
+            "mainClass": "Main_Test_6",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main_Test_5",
+            "request": "launch",
+            "mainClass": "Main_Test_5",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main_Test_4",
+            "request": "launch",
+            "mainClass": "Main_Test_4",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main_Test_3",
+            "request": "launch",
+            "mainClass": "Main_Test_3",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main_BOJ_1110_더하기사이클",
+            "request": "launch",
+            "mainClass": "Main_BOJ_1110_더하기사이클",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main_BOJ_2292_벌집",
+            "request": "launch",
+            "mainClass": "Main_BOJ_2292_벌집",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main_BOJ_5622_다이얼",
+            "request": "launch",
+            "mainClass": "Main_BOJ_5622_다이얼",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main_BOJ_2839_설탕배달",
+            "request": "launch",
+            "mainClass": "Main_BOJ_2839_설탕배달",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main_BOJ_2941_크로아티아알파벳",
+            "request": "launch",
+            "mainClass": "Main_BOJ_2941_크로아티아알파벳",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
             "name": "Launch Main_BOJ_7568_덩치",
             "request": "launch",
             "mainClass": "Main_BOJ_7568_덩치",
