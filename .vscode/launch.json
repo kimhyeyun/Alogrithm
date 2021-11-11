@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Main_BOJ_2668_숫자고르기",
+            "request": "launch",
+            "mainClass": "Main_BOJ_2668_숫자고르기",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
             "name": "Launch Main_BOJ_17175_피보나치는지겨워",
             "request": "launch",
             "mainClass": "Main_BOJ_17175_피보나치는지겨워",
