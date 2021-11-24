@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Main_BOJ_1487_물건팔기",
+            "request": "launch",
+            "mainClass": "Main_BOJ_1487_물건팔기",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main_BOJ_2583_영역구하기",
+            "request": "launch",
+            "mainClass": "Main_BOJ_2583_영역구하기",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main_BOJ_1068_트리",
+            "request": "launch",
+            "mainClass": "Main_BOJ_1068_트리",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main_BOJ_1092_배",
+            "request": "launch",
+            "mainClass": "Main_BOJ_1092_배",
+            "projectName": "Algorithm_bb8d156c"
+        },
+        {
+            "type": "java",
             "name": "Launch Main_BOJ_2636_치즈",
             "request": "launch",
             "mainClass": "Main_BOJ_2636_치즈",
