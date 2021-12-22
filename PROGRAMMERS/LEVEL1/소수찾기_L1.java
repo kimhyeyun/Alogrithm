@@ -1,4 +1,4 @@
-public class 소수찾기 {
+public class 소수찾기_L1 {
     public static void main(String[] args) {
         System.out.println(solution(10));
     }

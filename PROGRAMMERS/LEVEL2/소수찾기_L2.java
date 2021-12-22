@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class 소수찾기 {
+public class 소수찾기_L2 {
     static boolean isPrime[];
 
     public static int solution(String numbers){
