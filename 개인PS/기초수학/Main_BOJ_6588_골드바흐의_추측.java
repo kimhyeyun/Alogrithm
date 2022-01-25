@@ -9,6 +9,9 @@ public class Main_BOJ_6588_골드바흐의_추측 {
     static boolean[] isPrime;
     static int n;
 
+    public Main_BOJ_6588_골드바흐의_추측() {
+    }
+
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
