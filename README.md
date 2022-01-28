@@ -11,3 +11,8 @@ Programmers Level 순 알고리즘 풀이
 ```
 Baekjoon 알고리즘 별 풀이
 ```
+
+### [개인PS](https://github.com/kimhyeyun/Alogrithm/tree/main/개인PS)
+```
+직접 찾아 정리한 알고리즘 문제 풀이
+```
