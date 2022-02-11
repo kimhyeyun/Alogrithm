@@ -7,7 +7,7 @@
 |04|Data Structure|[바로가기](DS)|![done](https://img.shields.io/badge/-done-red)
 |05|문자열 처리|[바로가기](string)|![done](https://img.shields.io/badge/-done-red)
 |06|기초 수학|[바로가기](math)|![done](https://img.shields.io/badge/-done-red)
-|07|그래프|[바로가기](graph)|![done](https://img.shields.io/badge/-yet-yellow)
+|07|그래프|[바로가기](graph)|![done](https://img.shields.io/badge/-done-red)
 |08|이분탐색 / 삼분탐색|[바로가기](search)|![done](https://img.shields.io/badge/-yet-yellow)
 |09|분할정복|[바로가기](분할)|![done](https://img.shields.io/badge/-yet-yellow)
 |10|그리디|[바로가기](greedy)|![done](https://img.shields.io/badge/-yet-yellow)
