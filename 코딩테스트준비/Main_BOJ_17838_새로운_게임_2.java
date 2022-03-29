@@ -52,7 +52,6 @@ public class Main_BOJ_17838_새로운_게임_2 {
             map[x][y].add(i);
         }
 
-
         game();
 
     }
