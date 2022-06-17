@@ -3,7 +3,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.*;
 
-public class Main_BOJ_17145_낚시왕 {
+public class Main_BOJ_17143_낚시왕 {
 
     static class Shark {
         int r, c, speed, dir, size;
