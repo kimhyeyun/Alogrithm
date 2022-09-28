@@ -120,6 +120,7 @@ public class Main_BOJ_13460_구슬_탈출_2 {
                 if (!isVisited[nrx][nry][nbx][nby]) {
                     isVisited[nrx][nry][nbx][nby] = true;
                     q.add(new Marble(nrx, nry, nbx, nby, nowCnt + 1));
+                    System.out.println(d+ " "+ nrx + " " + nry + " " + nbx + " " + nby);
                 }
             }
         }
