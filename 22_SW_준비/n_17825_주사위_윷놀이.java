@@ -60,6 +60,9 @@ public class n_17825_주사위_윷놀이 {
     private static void makeOrder(int cnt) {
         if (cnt == 10) {
             answer = Math.max(answer, gameStart());
+            if (answer == 190) {
+                System.out.println(orders[0]);
+            }
             return;
         }
 
