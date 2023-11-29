@@ -14,7 +14,7 @@
 
 ---------------  S U M M A R Y ------------
 
-Command Line: -Dapplication.home=/opt/homebrew/Cellar/openjdk/15.0.2/libexec/openjdk.jdk/Contents/Home --add-modules=ALL-DEFAULT -Xms8m -Djdk.module.main=jdk.compiler jdk.compiler/com.sun.tools.javac.Main 대칭차잡합.java
+Command Line: -Dapplication.home=/opt/homebrew/Cellar/openjdk/15.0.2/libexec/openjdk.jdk/Contents/Home --add-modules=ALL-DEFAULT -Xms8m -Djdk.module.main=jdk.compiler jdk.compiler/com.sun.tools.javac.Main_BOJ_1543_문서_검색 대칭차잡합.java
 
 Host: MacBookPro17,1 arm64 1 MHz, 8 cores, 16G, Darwin 20.5.0, macOS 11.4 (20F71)
 Time: Sat Sep  4 14:03:18 2021 KST elapsed time: 0.069411 seconds (0d 0h 0m 0s)
@@ -61,10 +61,10 @@ j  com.sun.tools.javac.util.JCDiagnostic$Factory.instance(Lcom/sun/tools/javac/u
 j  com.sun.tools.javac.util.Log.<init>(Lcom/sun/tools/javac/util/Context;Ljava/util/Map;)V+2 jdk.compiler@16
 j  com.sun.tools.javac.util.Log.<init>(Lcom/sun/tools/javac/util/Context;)V+6 jdk.compiler@16
 j  com.sun.tools.javac.util.Log.instance(Lcom/sun/tools/javac/util/Context;)Lcom/sun/tools/javac/util/Log;+20 jdk.compiler@16
-j  com.sun.tools.javac.main.Main.compile([Ljava/lang/String;Lcom/sun/tools/javac/util/Context;)Lcom/sun/tools/javac/main/Main$Result;+38 jdk.compiler@16
-j  com.sun.tools.javac.main.Main.compile([Ljava/lang/String;)Lcom/sun/tools/javac/main/Main$Result;+15 jdk.compiler@16
-j  com.sun.tools.javac.Main.compile([Ljava/lang/String;)I+12 jdk.compiler@16
-j  com.sun.tools.javac.Main.main([Ljava/lang/String;)V+1 jdk.compiler@16
+j  com.sun.tools.javac.main.Main_BOJ_1543_문서_검색.compile([Ljava/lang/String;Lcom/sun/tools/javac/util/Context;)Lcom/sun/tools/javac/main/Main_BOJ_1543_문서_검색$Result;+38 jdk.compiler@16
+j  com.sun.tools.javac.main.Main_BOJ_1543_문서_검색.compile([Ljava/lang/String;)Lcom/sun/tools/javac/main/Main_BOJ_1543_문서_검색$Result;+15 jdk.compiler@16
+j  com.sun.tools.javac.Main_BOJ_1543_문서_검색.compile([Ljava/lang/String;)I+12 jdk.compiler@16
+j  com.sun.tools.javac.Main_BOJ_1543_문서_검색.main([Ljava/lang/String;)V+1 jdk.compiler@16
 v  ~StubRoutines::call_stub
 V  [libjvm.dylib+0x44ae78]  _ZN9JavaCalls11call_helperEP9JavaValueRK12methodHandleP17JavaCallArgumentsP6Thread+0x30c
 V  [libjvm.dylib+0x4ab9d0]  _ZL17jni_invoke_staticP7JNIEnv_P9JavaValueP8_jobject11JNICallTypeP10_jmethodIDP18JNI_ArgumentPusherP6Thread+0x120
@@ -99,7 +99,7 @@ Other Threads:
   0x000000014ee59d80 VMThread "VM Thread" [stack: 0x0000000170250000,0x0000000170453000] [id=14339]
   0x0000000158057780 WatcherThread [stack: 0x00000001717e0000,0x00000001719e3000] [id=40451]
   0x000000014ee27140 GCTaskThread "GC Thread#0" [stack: 0x000000016f814000,0x000000016fa17000] [id=19971]
-  0x000000014ee282c0 ConcurrentGCThread "G1 Main Marker" [stack: 0x000000016fa20000,0x000000016fc23000] [id=19459]
+  0x000000014ee282c0 ConcurrentGCThread "G1 Main_BOJ_1543_문서_검색 Marker" [stack: 0x000000016fa20000,0x000000016fc23000] [id=19459]
   0x000000014ef06580 ConcurrentGCThread "G1 Conc#0" [stack: 0x000000016fc2c000,0x000000016fe2f000] [id=12803]
   0x000000014ef09d40 ConcurrentGCThread "G1 Refine#0" [stack: 0x000000016fe38000,0x000000017003b000] [id=13571]
   0x000000014ee29320 ConcurrentGCThread "G1 Service" [stack: 0x0000000170044000,0x0000000170247000] [id=18691]
@@ -529,7 +529,7 @@ Dynamic libraries:
 
 VM Arguments:
 jvm_args: -Dapplication.home=/opt/homebrew/Cellar/openjdk/15.0.2/libexec/openjdk.jdk/Contents/Home --add-modules=ALL-DEFAULT -Xms8m -Djdk.module.main=jdk.compiler 
-java_command: jdk.compiler/com.sun.tools.javac.Main 대칭차잡합.java
+java_command: jdk.compiler/com.sun.tools.javac.Main_BOJ_1543_문서_검색 대칭차잡합.java
 java_class_path (initial): <not set>
 Launcher Type: SUN_STANDARD
 
